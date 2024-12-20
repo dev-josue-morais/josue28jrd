@@ -19,6 +19,9 @@ Tornar-me um profissional capacitado no mundo do Front-End, entregando soluçõe
 
 
 📊 Meu Progresso no GitHub
+[![Meus Status](https://github-readme-stats.vercel.app/api?username=josue28jrd&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Meus Status](https://github-readme-stats.vercel.app/api?username=josue28jrd&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue28jrd)](https://github.com/anuraghazra/github-readme-stats)
 
 🌐 Conecte-se comigo
 
